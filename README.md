@@ -1,6 +1,4 @@
-﻿## Диаграмма классов
-```mermaid
-classDiagram
+﻿classDiagram
     class Game {
         +Run()
         -Update()
